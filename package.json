@@ -1,0 +1,25 @@
+{
+  "name": "dev-journal",
+  "version": "1.0.0",
+  "description": "Console journal tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GuiGaIb/dev-journal.git"
+  },
+  "author": "guigaib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GuiGaIb/dev-journal/issues"
+  },
+  "homepage": "https://github.com/GuiGaIb/dev-journal#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "typescript": "^4.9.4"
+  },
+  "types": "./types/index.d.ts",
+  "type": "module"
+}
